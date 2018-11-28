@@ -1,7 +1,6 @@
-Mars is definitely cool.
+Mars is cool.
 It's red.
 But it has no moons.
-
 It pretends to have two moons.
 But those moons are asteroids.
 
